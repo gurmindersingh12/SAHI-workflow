@@ -2,7 +2,7 @@
 Splitting images into tiles for better pre-processing
 
 
-'''
+```
 project_folder/
 │
 ├── split_tiles.py
@@ -11,4 +11,4 @@ project_folder/
 │   ├── image2.jpg
 │
 └── tiles/
-'''
+```
