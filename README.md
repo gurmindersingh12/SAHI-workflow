@@ -14,3 +14,8 @@ project_folder/
 │
 └── tiles/
 ```
+
+and then run 
+```
+python split_tiles.py
+```
