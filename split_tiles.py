@@ -6,7 +6,7 @@ input_folder = "large_images"
 output_folder = "tiles"
 
 tile_size = 800
-overlap = 0.20
+overlap = 0.05
 
 os.makedirs(output_folder, exist_ok=True)
 
